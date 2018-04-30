@@ -1,0 +1,9 @@
+Package: com.creaturecoding.attributionless
+Name: attibutionless
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: removes the wether provider attribution text in the Notification Center and Today View on iOS 10 & 11 (maybe 9 as well).
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
